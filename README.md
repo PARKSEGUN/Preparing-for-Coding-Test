@@ -17,6 +17,6 @@
 
 | 일자  |     분류     |                               문제                                | 사이트 | 난이도 | 박세건 | 박성재 |
 | ----- | :----------: | :---------------------------------------------------------------: | :----: | :----: | :----: | :----: | 
-| 04/15 |       |      [카드 짝 맞추기]([https://www.acmicpc.net/problem/18511](https://school.programmers.co.kr/learn/courses/30/lessons/72415))      |  프로그래머스    |   Level 3    |        |        |  
+| 04/15 |       |      [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)      |  프로그래머스    |   Level 3    |        |        |  
 
 
