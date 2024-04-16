@@ -19,5 +19,7 @@
 | ----- |   :---------------------------------------------------------------: | :----: | :----: | :----: | :----: | 
 | 04/15 |  [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)      |  프로그래머스    |   Level 3    |        |        |  
 | 04/16 | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)      |  프로그래머스    |   Level 3    |   O    |        |  
+| 04/16 | [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)      |  백준    |   GOLD 4    |    O   |        |  
+| 04/16 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)      |  프로그래머스    |   Level 2    |        |    O   |  
 
 
